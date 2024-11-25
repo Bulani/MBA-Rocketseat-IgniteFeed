@@ -24,7 +24,7 @@ Aplicação desenvolvida na Formação Fullstack da Rocketseat.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React
-- vite
+- Vite
 
 ## Projeto
 
